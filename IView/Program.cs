@@ -4,6 +4,7 @@ using System.Windows.Forms;
 
 namespace IView
 {
+
     static class Program
     {
         /// <summary>
